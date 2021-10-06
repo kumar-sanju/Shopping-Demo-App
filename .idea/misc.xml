@@ -4,10 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/drawable/ic_chevron_left_black_24dp.xml" value="0.2890625" />
+        <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/drawable/ic_fingerprint.xml" value="0.2890625" />
         <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/layout/activity_detailed_products.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/layout/activity_fingureprint.xml" value="0.22" />
         <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/layout/activity_home.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/layout/activity_notifications.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/layout/activity_password.xml" value="0.2" />
         <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/layout/activity_sign_in.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/layout/activity_sign_up.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/APEX-NEW2020/AndroidStudioProjects/TrainingTime/app/src/main/res/layout/products_list_item_layout.xml" value="0.27291666666666664" />
